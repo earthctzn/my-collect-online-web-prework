@@ -1,4 +1,6 @@
 def my_collect(name)
-  if 
+  if block_given?
+    i = 0 
+    
 
 end
