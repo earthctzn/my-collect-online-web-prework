@@ -1,5 +1,5 @@
 def my_collect(array)
-  if block_given?
+  if block_given? = false
     i = 0 
      while i < array.length
       yield(array[i])
