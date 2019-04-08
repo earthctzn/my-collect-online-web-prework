@@ -5,6 +5,8 @@ def my_collect(array)
       yield(array[i])
       i = i + 1 
     end
-    return yield 
+    return yield
+  else
+    i = 0
   end
 end
