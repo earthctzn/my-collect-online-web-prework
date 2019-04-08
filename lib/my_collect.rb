@@ -6,5 +6,4 @@ def my_collect(array)
       count += 1 
     end
     new_a
-  end
 end
