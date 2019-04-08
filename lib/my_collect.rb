@@ -6,5 +6,5 @@ def my_collect(array)
       i = i + 1 
     end
     return yeald 
-
+  end
 end
